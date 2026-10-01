@@ -1,0 +1,18 @@
+export const colors = {
+  background: '#F4F1EA',
+  boardBackground: '#FFFFFF',
+  gridLine: '#D6D2C4',
+  gridLineThick: '#3A3A3A',
+  selected: '#CDE6F7',
+  peer: '#EAF3FA',
+  sameValue: '#D9ECFB',
+  textGiven: '#1F2933',
+  textEntered: '#1C6DD0',
+  textNote: '#7A8699',
+  error: '#D64545',
+  accent: '#2F6FED',
+  surface: '#FFFFFF',
+  border: '#E1DCCB',
+  mutedText: '#6B7280',
+  success: '#2E9E5B',
+};
